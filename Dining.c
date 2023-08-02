@@ -1,6 +1,7 @@
 #include <pthread.h>
 #include <semaphore.h>
 #include <stdio.h>
+#include<conio.h>
 #define N 5
 #define THINKING 2
 #define HUNGRY 1
